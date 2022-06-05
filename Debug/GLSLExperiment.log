@@ -1,0 +1,19 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(124,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(125,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(157,42): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(158,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(195,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(196,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(199,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(200,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(203,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(204,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(207,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(208,11): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(211,15): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(212,14): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(215,15): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(216,14): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+  GLSLExperiment.vcxproj -> E:\Do hoa may tinh\tuan6\BaiTHso3_2_project_Cube\Debug\GLSLExperiment.exe
